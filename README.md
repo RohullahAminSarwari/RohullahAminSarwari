@@ -62,6 +62,30 @@ From **C & C++ fundamentals** to **Java, Python, and C#**, I use multiple langua
 
 ---
 
+## 📈 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohullahAminSarwari&bg_color=0d1117&color=79dafa&line=79dafa&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🔢 Commit & Profile Counters  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RohullahAminSarwari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://badges.pufler.dev/commits/monthly/RohullahAminSarwari" alt="Commits per month" />
+  <img src="https://img.shields.io/github/commit-activity/m/RohullahAminSarwari/RohullahAminSarwari" alt="Commit Activity" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/RohullahAminSarwari/RohullahAminSarwari/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌍 Connect with Me  
 
 <p align="center">
@@ -71,7 +95,7 @@ From **C & C++ fundamentals** to **Java, Python, and C#**, I use multiple langua
   <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://[your-portfolio-link.com](https://github.com/RohullahAminSarwari/RohullahAminSarwari)" target="_blank">
+  <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
