@@ -89,15 +89,13 @@ From **C & C++ fundamentals** to **Java, Python, and C#**, I use multiple langua
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/RohullahAminSarwari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="mailto:sarwarirohullah6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://your-portfolio-link.com](https://github.com/RohullahAminSarwari/RohullahAminSarwari)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
