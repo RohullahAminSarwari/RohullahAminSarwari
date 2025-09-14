@@ -95,7 +95,7 @@ From **C & C++ fundamentals** to **Java, Python, and C#**, I use multiple langua
   <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="[https://your-portfolio-link.com](https://github.com/RohullahAminSarwari/RohullahAminSarwari)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
