@@ -49,16 +49,7 @@ From **C & C++ fundamentals** to **Java, Python, and C#**, I use multiple langua
 
 ---
 
-## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohullahAminSarwari&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohullahAminSarwari&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohullahAminSarwari&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
